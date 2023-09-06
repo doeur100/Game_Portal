@@ -1,6 +1,6 @@
 
 <template>
-  <div class="main">
+  <div class="mt-20 ">
     <v-sheet
     class="mx-auto"
     max-width="1910"
@@ -117,9 +117,7 @@ const items = ref([
 </script>
 
 <style scoped>
-.main{
-  margin-top: 5%;
-}
+
 </style>
 
 
